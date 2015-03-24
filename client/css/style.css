@@ -1,0 +1,29 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Customize container */
+.container {
+  max-width: 730px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron h1 {
+	font-size: 28px;
+	padding-bottom: 20px;
+}
+
+.table {
+	text-align: left;
+}
+
+.alert-info {
+	background-color: rgba(0,0,0,0);
+	border-color: rgba(0,0,0,0.1);
+	color: rgba(0,0,0,0.6);
+}
